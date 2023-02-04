@@ -1,0 +1,138 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url(wp1816999.jpeg);
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(wp1816999.jpeg);
+    /*background-repeat: repeat-n;*/
+}
+
+h1 {
+    margin-top: 40px;
+    margin-left: 50px;
+    color: white;
+    font-weight: 100;
+    letter-spacing: .2rem;
+}
+
+h2 {
+    color: white;
+    font-weight: 100;
+    letter-spacing: .2rem;
+    margin-top: 15px;
+    margin-left: 12px;
+}
+
+.container-1 {
+    width: 90%;
+    height: 360px;
+    margin-top: 40px;
+    margin-left: 50px;
+    border: 1px solid white;
+}
+
+.color-boxes {
+    height: 240px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.red-box, .white-box, .blue-box {
+    width: 30%;
+    height: 140px;
+    text-align: center;
+    line-height: 1.5rem;
+    padding-top: 40px;
+}
+
+.red-box {
+    color: white;
+    background-color: red;
+}
+
+.white-box {
+    color: black;
+    background-color: white;
+}
+
+.blue-box {
+    color: white;
+    background-color: blue;
+}
+
+.container-2 {
+    width: 90%;
+    height: 200px;
+    margin-top: 40px;
+    margin-left: 50px;
+    border: 1px solid white;
+}
+
+#font-name {
+    font-family: "Roboto";
+    text-decoration: underline;
+    padding-bottom: 0;
+}
+
+.sentences {
+    color: white;
+    font-family: "Noto Serif";
+    text-align: center;
+    line-height: 2.0rem;
+}
+
+#big-donald {
+    font-weight: 800;
+    margin-top: 10px;
+    /*padding-bottom: 25px;*/
+}
+
+#italic {
+    font-style: italic;
+    padding-top: 20px;
+}
+
+.container-3 {
+    width: 90%;
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+    border: 1px solid white;  
+    color: white; 
+    font-family: 'Roboto';
+    font-weight: 100;
+}
+
+#chg-h1 {
+    margin-top: 15px;
+}
+
+#chg-h1, #chg-h2, #chg-p {
+    font-family: 'Noto Serif';
+}
+
+.align-list {
+    text-align: center;
+}
+.my-ul {
+    display: inline-block;
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
