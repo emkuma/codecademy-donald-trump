@@ -1,10 +1,11 @@
 # codecademy-donald-trump
 Codecademy offline project.
-Hello.
-I wasn't sure if this is okay for submission.
+
+Unsure if this passes the "smell test".
+
 The "Donald Trump" background is meant to be taken lightly.  
-I meant no harm.  
-I don't want a big controversy over this.
+
+Mean no harm.  
 
 Thank you for your feedback.
 
